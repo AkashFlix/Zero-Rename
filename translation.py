@@ -1,13 +1,13 @@
 class Translation(object):
-    START_TEXT = """ <b> Hɪɪ {} , 
+    START_TEXT = """ <b> Hᴏʟᴀ {} , 
 
-I'ᴍ ᴀ ʀᴇɴᴀᴍᴇ ʙᴏᴛ. 😎
+I'ᴍ Nᴀʀᴜᴛᴏ Uᴢᴜᴍᴀᴋɪ, ᴀ ʀᴇɴᴀᴍᴇ ʙᴏᴛ. 😎
 
 Aɴᴅ I ᴄᴀɴ Cᴏɴᴠᴇʀᴛ Fɪʟᴇs ᴛᴏ Vɪᴅᴇᴏ ᴡɪᴛʜ Pᴇʀᴍᴀɴᴇɴᴛ Tʜᴜᴍʙɴᴀɪʟ ᴀɴᴅ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ Sᴜᴘᴘᴏʀᴛ. 🤫
 
 Jᴜsᴛ sᴇɴᴅ ᴍᴇ Fɪʟᴇs/Vɪᴅᴇᴏ ᴀɴᴅ sᴇᴇ ᴛʜᴇ Mᴀɢɪᴄ. 🪄</b>
 
-<b>Bʏ - @Bot_Flix. </b> \n 
+<b>Bʏ - @Bot_Flix.</b> \n 
 """
 
     BANNED_USER_TEXT = "Sorry!! But Mai Owner As Banned You From Using This Service. That Means You Can't Run Meh Now! \n \n Contact : @No_OnE_Kn0wS_Me For more Details.. " 
