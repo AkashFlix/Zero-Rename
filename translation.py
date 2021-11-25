@@ -7,7 +7,7 @@ Aɴᴅ I ᴄᴀɴ Cᴏɴᴠᴇʀᴛ Fɪʟᴇs ᴛᴏ Vɪᴅᴇᴏ ᴡɪᴛʜ P�
 
 Jᴜsᴛ sᴇɴᴅ ᴍᴇ Fɪʟᴇs/Vɪᴅᴇᴏ ᴀɴᴅ sᴇᴇ ᴛʜᴇ Mᴀɢɪᴄ. 🪄</b>
 
-<b>Bʏ - @Bot_Flix</b> \n 
+<b>Bʏ - @NarutoUzumaki_02</b> \n 
 """
 
     BANNED_USER_TEXT = "Sorry!! But Mai Owner As Banned You From Using This Service. That Means You Can't Run Meh Now! \n \n Contact : @No_OnE_Kn0wS_Me For more Details.. " 
@@ -22,9 +22,9 @@ Jᴜsᴛ sᴇɴᴅ ᴍᴇ Fɪʟᴇs/Vɪᴅᴇᴏ ᴀɴᴅ sᴇᴇ ᴛʜᴇ Mᴀ�
     CUSTOM_CAPTION_UL_FILE = " "
     NO_THUMB_FOUND = "No Thumbnail found"
     IFLONG_FILE_NAME = """You Gotta Be Kidding Me...Decrease The Number Of Letters😆😉"""
-    ABOUT_ME = """<b>Dᴇᴠᴇʟᴏᴘᴇʀ - @Bot_Flix
-Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ -  Aɴɪᴍᴇ Gᴀʟᴀxʏ 
-Mᴀɴɢᴀ Cʜᴀɴɴᴇʟ - Mᴀɴɢᴀ Mᴀɴʜᴡᴀ
+    ABOUT_ME = """<b>❄️ Dᴇᴠᴇʟᴏᴘᴇʀ - @Bot_Flix
+💠 Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ - <a href="https://t.me/Anime_Galaxyz">Aɴɪᴍᴇ Gᴀʟᴀxʏ</a>
+🍁 Mᴀɴɢᴀ Cʜᴀɴɴᴇʟ - <a href="https://t.me/MangaManhwa_Galaxy">Mᴀɴɢᴀ Mᴀɴʜᴡᴀ</a>
 
 ~ Sʜᴀʀᴇ ᴀɴᴅ Sᴜᴘᴘᴏʀᴛ ᴜs ♥️</b>"""
     HELP_USER = """<b>Hᴇʀᴇ's ᴀʀᴇ ᴛʜᴇ Aᴠᴀɪʟᴀʙʟᴇ Cᴏᴍᴍᴀɴᴅs 🤩</b> \n\n <b>Jᴏɪɴ - @Anime_Galaxyz</b> ❤️"""
