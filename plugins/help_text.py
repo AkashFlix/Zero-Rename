@@ -102,8 +102,8 @@ async def start_me(bot, update):
                         InlineKeyboardButton("Help", callback_data = "ghelp")
                 ],
                 [
-                    InlineKeyboardButton('Support Channel', url='https://t.me/Mai_bOTs'),
-                    InlineKeyboardButton('Feedback', url='https://t.me/No_OnE_Kn0wS_Me')
+                    InlineKeyboardButton('🍁 Aɴɪᴍᴇ Cʜᴀɴɴᴇʟ', url='https://t.me/Anime_Galaxyz'),
+                    InlineKeyboardButton('Cʜᴀᴛ Gʀᴏᴜᴘ', url='https://t.me/No_OnE_Kn0wS_Me')
                 ],
                 [
                     InlineKeyboardButton('Other Bots', url='https://t.me/Mai_bOTs/17'),
