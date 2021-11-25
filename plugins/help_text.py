@@ -106,8 +106,8 @@ async def start_me(bot, update):
                     InlineKeyboardButton('🗣️ Cʜᴀᴛ Gʀᴏᴜᴘ', url='https://t.me/AnimeGalaxy_Chat')
                 ],
                 [
-                    InlineKeyboardButton('Other Bots', url='https://t.me/Mai_bOTs/17'),
-                    InlineKeyboardButton('Source', url='https://github.com/No-OnE-Kn0wS-Me/FileRenameBot')
+                    InlineKeyboardButton('📚 Mᴀɴɢᴀ Cʜᴀɴɴᴇʟ', url='https://t.me/MangaManhwa_Galaxy'),
+                    InlineKeyboardButton('♥️ Sᴏᴜʀᴄᴇ', url='https://t.me/AnimeGalaxy_Network')
                 ]
             ]
         ),
