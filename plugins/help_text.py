@@ -60,15 +60,15 @@ async def help_user(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('📝Rename', callback_data = "rnme"),
-                    InlineKeyboardButton('📂File To Video', callback_data = "f2v")
+                    InlineKeyboardButton('📝 Rᴇɴᴀᴍᴇ', callback_data = "rnme"),
+                    InlineKeyboardButton('📂 Fɪʟᴇ ᴛᴏ Vɪᴅᴇᴏ', callback_data = "f2v")
                 ],
                 [
-                    InlineKeyboardButton('🎞️Custom Thumbnail', callback_data = "cthumb"),
-                    InlineKeyboardButton('📑Custom Caption', callback_data = "ccaption")
+                    InlineKeyboardButton('📔 Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ', callback_data = "cthumb"),
+                    InlineKeyboardButton('📋 Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ', callback_data = "ccaption")
                 ],
                 [
-                    InlineKeyboardButton('💬About', callback_data = "about")
+                    InlineKeyboardButton('🚩 Aʙᴏᴜᴛ', callback_data = "about")
                 ]
             ]
         )
@@ -99,7 +99,7 @@ async def start_me(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                        InlineKeyboardButton("Help", callback_data = "ghelp")
+                        InlineKeyboardButton("🎯 Hᴇʟᴘ", callback_data = "ghelp")
                 ],
                 [
                     InlineKeyboardButton('🍁 Aɴɪᴍᴇ Cʜᴀɴɴᴇʟ', url='https://t.me/Anime_Galaxyz'),
