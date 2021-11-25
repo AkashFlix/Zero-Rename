@@ -103,7 +103,7 @@ async def start_me(bot, update):
                 ],
                 [
                     InlineKeyboardButton('🍁 Aɴɪᴍᴇ Cʜᴀɴɴᴇʟ', url='https://t.me/Anime_Galaxyz'),
-                    InlineKeyboardButton('Cʜᴀᴛ Gʀᴏᴜᴘ', url='https://t.me/No_OnE_Kn0wS_Me')
+                    InlineKeyboardButton('🗣️ Cʜᴀᴛ Gʀᴏᴜᴘ', url='https://t.me/AnimeGalaxy_Chat')
                 ],
                 [
                     InlineKeyboardButton('Other Bots', url='https://t.me/Mai_bOTs/17'),
