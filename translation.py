@@ -23,8 +23,8 @@ Jᴜsᴛ sᴇɴᴅ ᴍᴇ Fɪʟᴇs/Vɪᴅᴇᴏ ᴀɴᴅ sᴇᴇ ᴛʜᴇ Mᴀ�
     NO_THUMB_FOUND = "<b>Nᴏ Tʜᴜᴍʙɴᴀɪʟ ғᴏᴜɴᴅ</b>"
     IFLONG_FILE_NAME = """<b>Yᴏᴜ Gᴏᴛᴛᴀ Bᴇ Kɪᴅᴅɪɴɢ Mᴇ...Dᴇᴄʀᴇᴀsᴇ Tʜᴇ Nᴜᴍʙᴇʀ Oғ Lᴇᴛᴛᴇʀs 😆😉</b>"""
     ABOUT_ME = """<b>❄️ Dᴇᴠᴇʟᴏᴘᴇʀ - @Bot_Flix
-💠 Aɴɪᴍᴇ Cʜᴀɴɴᴇʟ - <a href="https://t.me/Anime_Galaxyz">Aɴɪᴍᴇ Gᴀʟᴀxʏ</a>
-🍁 Mᴀɴɢᴀ Cʜᴀɴɴᴇʟ - <a href="https://t.me/MangaManhwa_Galaxy">Mᴀɴɢᴀ Mᴀɴʜᴡᴀ</a>
+🍁 Aɴɪᴍᴇ Cʜᴀɴɴᴇʟ - <a href="https://t.me/Anime_Galaxyz">Aɴɪᴍᴇ Gᴀʟᴀxʏ</a>
+📚 Mᴀɴɢᴀ Cʜᴀɴɴᴇʟ - <a href="https://t.me/MangaManhwa_Galaxy">Mᴀɴɢᴀ Mᴀɴʜᴡᴀ</a>
 
 ~ Sʜᴀʀᴇ ᴀɴᴅ Sᴜᴘᴘᴏʀᴛ ᴜs ♥️</b>"""
     HELP_USER = """<b>Hᴇʀᴇ's ᴀʀᴇ ᴛʜᴇ Aᴠᴀɪʟᴀʙʟᴇ Cᴏᴍᴍᴀɴᴅs 🤩</b> \n\n <b>Jᴏɪɴ - @Anime_Galaxyz</b> ❤️"""
